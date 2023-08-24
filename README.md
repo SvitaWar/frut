@@ -1,2 +1,6 @@
-# frut
-Practicando arquitectura con CSS en web Alura
+# Arquitectura-css
+curso de arquictetura CSS de Alura Latam. 
+Instructora: Jeanmarie Quijada
+Alumna: Sylvia Uribe
+
+
